@@ -1,4 +1,4 @@
-require 'doorkeeper/orm/mongoid5/concerns/scopes'
+require 'doorkeeper/orm/mongoid6/concerns/scopes'
 require 'doorkeeper-mongodb/compatible'
 
 module Doorkeeper
